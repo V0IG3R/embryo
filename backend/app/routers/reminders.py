@@ -2,6 +2,7 @@ from fastapi import APIRouter
 
 router = APIRouter()
 
+# Global notifications list
 notifications = []
 
 @router.post("/create")
