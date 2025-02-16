@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pytrends
+langchain
+langchain_groq
+pydantic
+requests
+vosk
