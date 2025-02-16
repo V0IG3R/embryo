@@ -1,6 +1,6 @@
-# GenM - AI-Powered Startup Assistance Platform
+# Embryo - AI-Powered Startup Assistance Platform
 
-GenM is an AI-driven platform designed to assist entrepreneurs in validating their ideas, generating investor pitches, creating startup roadmaps, setting up reminders, practicing pitch delivery, and managing business operations efficiently. The project consists of a **FastAPI** backend integrated with **Groq's LLM, LangChain, Firebase, and Google Trends**, and a **React-based frontend** styled with modern UI components.
+Embryo is an AI-driven platform designed to assist entrepreneurs in validating their ideas, generating investor pitches, creating startup roadmaps, setting up reminders, practicing pitch delivery, and managing business operations efficiently. The project consists of a **FastAPI** backend integrated with **Groq's LLM, LangChain, Firebase, and Google Trends**, and a **React-based frontend** styled with modern UI components.
 
 ## 📂 Project Structure
 
@@ -49,7 +49,6 @@ project/
 - **AI-Powered Chatbot**: Provides business insights and recommendations.
 - **Pitch Deck Visuals**: Generates animated pitch decks.
 - **Dynamic Roadmap Display**: Organizes startup milestones visually.
-- **Real-Time Notifications**: Ensures users never miss important updates.
 
 ## 🛠️ Setup Instructions
 
